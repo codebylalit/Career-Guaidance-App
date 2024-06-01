@@ -427,3 +427,4 @@ function getCareerAdvice(interests) {
     return "No direct matches found. Please provide more specific interests.";
   }
 }
+
